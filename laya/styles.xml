@@ -1,0 +1,21 @@
+<res>
+   <item name="KRQ/jiesuanyead.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,30,92,30" picType="0" scale="0"/>
+   <item name="Loading/dibubeijingsekuai.png" type="Sprite" compress="0" pack="2" quality="80" props="sizeGrid=2,20,20,20" picType="0" scale="0"/>
+   <item name="Loading/loadingshangtiao.png" type="Sprite" compress="0" pack="2" quality="80" props="sizeGrid=0,12,0,12" picType="0" scale="0"/>
+   <item name="Loading/ziyuanjiazaizhong.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/loadingxiatiao.png" type="Sprite" compress="0" pack="2" quality="80" props="sizeGrid=0,25,0,25" picType="0" scale="0"/>
+   <item name="Loading/R.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/W.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/Y.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/ren.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/jiazaidunhao.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/you.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/wan.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="ClickGetPrize/juxing568.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=15,15,15,15" picType="0" scale="0"/>
+   <item name="ClickGetPrize/meiriqiandaolansebg.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=25,25,25,25" picType="0" scale="0"/>
+   <item name="ClickGetPrize/jindutiao.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=0,16,0,16" picType="0" scale="0"/>
+   <item name="Template/juxing619.png" type="Sprite" compress="0" pack="0" quality="80" props="sizeGrid=20,20,20,20" picType="0" scale="0"/>
+   <item name="Loading/标志.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/矩形 1 拷贝.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="Loading/资源加载中....png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>
